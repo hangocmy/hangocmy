@@ -35,6 +35,7 @@
 
 ---
 
+
 ### Languages and Tools 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -64,9 +65,11 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
     </a>
-  </div
+  </div>
 
 ---
+
+</br>
 
 ### Copyright © [Ha Ngoc My](https://github.com/hangocmy) ### 
 Last Edited on: 25/02/2021
