@@ -22,8 +22,8 @@
 ### Contact with me 📝
 
 [<img align="left" alt="hangocmy.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][Website]
-[<img align="left" alt="hangocmy | LinkedIn" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/725/725300.svg?token=exp=1614187819~hmac=e0512760e8a0a3d7163dae22cdeae7b0"/>][Youtube]
-[<img align="left" alt="hangocmy | LinkedIn" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/725/725289.svg?token=exp=1614187876~hmac=6fc857965c1e8253c360d70172dffe5f"/>][Facebook]
+[<img align="left" alt="hangocmy | LinkedIn" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/725/725289.svg"/>][Youtube]
+[<img align="left" alt="hangocmy | LinkedIn" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/725/725289.svg/>][Facebook]
 [<img align="left" alt="hangocmy | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][Instagram]
 [<img align="left" alt="hangocmy | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][Linkedin]
 [<img align="left" alt="hangocmy | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
