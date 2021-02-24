@@ -76,7 +76,7 @@
 
 [Website]: http://hangocmy.site/
 [Youtube]: https://www.youtube.com/channel/UCwAy1LjSTAo3c6lh-5NnL3w
-[Facebook]: https://www/facebook.com/ctrls.hangocmy
+[Facebook]: https://www.facebook.com/ctrls.hangocmy/
 [Instagram]: https://www.instagram.com/ctrls.iammi/
 [Linkedin]: https://www.linkedin.com/in/hangocmy/
 [Spotify]: https://open.spotify.com/user/11153360645
