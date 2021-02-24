@@ -69,8 +69,8 @@
 ---
 
 ### Copyright © [Ha Ngoc My](https://github.com/hangocmy) ### 
+Last Edited on: 25/02/2021
 
----
 
 [Website]: http://hangocmy.site/
 [Youtube]: https://www.youtube.com/channel/UCwAy1LjSTAo3c6lh-5NnL3w
@@ -80,7 +80,3 @@
 [Spotify]: https://open.spotify.com/user/11153360645
 
 
-----
-Credit: [Ha Ngoc My](https://github.com/hangocmy)
-
-Last Edited on: 25/02/2021
