@@ -69,7 +69,6 @@
 
 ---
 
-</br>
 
 ### Copyright © [Ha Ngoc My](https://github.com/hangocmy) ### 
 Last Edited on: 25/02/2021
