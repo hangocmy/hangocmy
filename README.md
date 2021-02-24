@@ -21,6 +21,7 @@
 
 ### Contact me 
 
+
 [<img align="left" alt="hangocmy.site" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg"/>][Website]
 [<img align="left" alt="hangocmy | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][Linkedin]
 [<img align="left" alt="hangocmy | Facebook" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/725/725289.svg"/>][Facebook]
@@ -29,11 +30,11 @@
 [<img align="left" alt="hangocmy | Spotify" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg"/>][Spotify]
 
 
+
 <br/>
 
 ---
 
-<br/>
 ### Languages and Tools 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
