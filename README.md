@@ -68,7 +68,7 @@
 
 ---
 
-### ⭐️ From [Ha Ngoc My](https://github.com/hangocmy) ### 
+### Product of [Ha Ngoc My](https://github.com/hangocmy) ### 
 
 ---
 
