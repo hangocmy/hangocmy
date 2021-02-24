@@ -29,10 +29,8 @@
 [<img align="left" alt="hangocmy | Spotify" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg"/>][Spotify]
 
 
+<br />
 
-<br />
-<br />
-<br />
 ---
 
 ### Languages and Tools 
