@@ -27,7 +27,6 @@
 [<img align="left" alt="hangocmy | Facebook" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725289.svg"/>][Facebook]
 [<img align="left" alt="hangocmy | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg"/>][Instagram]
 [<img align="left" alt="hangocmy | Youtube" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725300.svg"/>][Youtube]
-[<img align="left" alt="hangocmy | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg"/>][Spotify]
 
 
 
