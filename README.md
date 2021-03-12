@@ -75,7 +75,7 @@ Last Edited on: 25/02/2021
 [Website]: https://hangocmy.000webhostapp.com/
 [Youtube]: https://www.youtube.com/channel/UCwAy1LjSTAo3c6lh-5NnL3w
 [Facebook]: https://www.facebook.com/ctrls.hangocmy/
-[Instagram]: https://www.instagram.com/ctrls.iammi/
+[Instagram]: https://www.instagram.com/ctrlsiammi/
 [Linkedin]: https://www.linkedin.com/in/hangocmy/
 [Spotify]: https://open.spotify.com/user/11153360645
 
