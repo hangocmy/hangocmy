@@ -48,6 +48,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-181717?style=flat-square&logo=php&color=59668E)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-181717?style=flat-square&logo=figma&color=purple)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-%23E44D27?style=flat-square&logo=adobephotoshop&logoColor=140B5B)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
