@@ -26,7 +26,6 @@
 [<img align="left" alt="hangocmy | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][Linkedin]
 [<img align="left" alt="hangocmy | Facebook" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725289.svg"/>][Facebook]
 [<img align="left" alt="hangocmy | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg"/>][Instagram]
-[<img align="left" alt="hangocmy | Youtube" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725300.svg"/>][Youtube]
 
 
 
@@ -75,7 +74,6 @@ Last Edited on: 25/02/2021
 
 
 [Website]: https://hangocmy.000webhostapp.com/
-[Youtube]: https://www.youtube.com/channel/UCwAy1LjSTAo3c6lh-5NnL3w
 [Facebook]: https://www.facebook.com/ctrls.hangocmy/
 [Instagram]: https://www.instagram.com/ctrlsiammi/
 [Linkedin]: https://www.linkedin.com/in/hangocmy/
