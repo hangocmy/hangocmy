@@ -77,6 +77,8 @@ Last Edited on: 25/02/2021
 [Facebook]: https://www.facebook.com/ctrls.hangocmy/
 [Instagram]: https://www.instagram.com/ctrlshnm/
 [Linkedin]: https://www.linkedin.com/in/hangocmy/
-[Spotify]: https://open.spotify.com/user/11153360645
+[Spotify]: https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa
+
+[Spotify2]: https://open.spotify.com/user/11153360645
 
 
