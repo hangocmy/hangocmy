@@ -22,7 +22,7 @@
 
 ### Some of my project
 
-1. Portfolio: <a href="https://hangocmy.000webhostapp.com">https://hangocmy.000webhostapp.com</a>
+1. Portfolio: <a href="https://hangocmy.000webhostapp.com" targer="_blank">https://hangocmy.000webhostapp.com</a>
 
 ### Contact me 
 
