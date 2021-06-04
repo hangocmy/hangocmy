@@ -22,7 +22,7 @@
 
 ### Some of my project
 
-1. [Portfolio:] [https://hangocmy.000webhostapp.com]
+1. Portfolio: https://hangocmy.000webhostapp.com
 
 ### Contact me 
 
