@@ -24,8 +24,11 @@
 
 1. Portfolio: <a href="https://hangocmy.000webhostapp.com" target="_blank">https://hangocmy.000webhostapp.com</a>
 2. Coffee Space: <a href="https://coffeespace.000webhostapp.com" target="_blank">https://coffeespace.000webhostapp.com</a>
-3. Store App: <a href="https://tandmstoreapp.000webhostapp.com/" target="_blank">https://tandmstoreapp.000webhostapp.com/</a>
+3. Android Store App: <a href="https://tandmstoreapp.000webhostapp.com" target="_blank">https://tandmstoreapp.000webhostapp.com/</a>
 4. TDTU Unbind The Brains (my partner[back-end] and me[font-end]): <a href="https://thousandideastmot.web.app/index.html" target="_blank">https://thousandideastmot.web.app/index.html</a>
+
+---
+
 
 ### Contact me 
 
