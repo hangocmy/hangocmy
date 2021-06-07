@@ -21,11 +21,11 @@
 
 
 ### Some of my project
-(open new blank page -> ctrl + click for windows or command + click for mac)
+(open new blank page: ctrl + click for windows or command + click for mac)
 1. [WEB] <a href="https://hangocmy.000webhostapp.com" target="_blank"> Portfolio</a>
 2. [WEB] <a href="https://coffeespace.000webhostapp.com" target="_blank"> Coffee Space</a>
 3. [WEB] <a href="https://tandmstoreapp.000webhostapp.com" target="_blank">Store App</a>
-4. [WEB] (my partner[back-end] and me[font-end]): <a href="https://thousandideastmot.web.app/index.html" target="_blank"> Unbind The Brains</a>
+4. [WEB] (my partner[back-end] and me[font-end]) <a href="https://thousandideastmot.web.app/index.html" target="_blank"> Unbind The Brains</a>
 5. [WEB VIDEO] <a href="https://www.youtube.com/watch?v=2A8IB0sVw6A" target="_blank"> Football Manager</a>
 6. [UIUX VIDEO] <a href="https://www.youtube.com/watch?v=Gzv5HjEqLVw" target="_blank">Football Club</a>
 7. [UIUX VIDEO] <a href="https://www.youtube.com/watch?v=AI9jEmEyM4E&t=1s" target="_blank">Restaurant</a>
