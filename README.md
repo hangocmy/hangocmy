@@ -21,6 +21,13 @@
 
 
 ### Some of my project
+<script>
+   import '@forter/link';
+</script>
+
+<fc-link>
+   <a href="www.google.com" target="_blank"> Link </a>
+</fc-link>
 1. Portfolio: <a href="https://hangocmy.000webhostapp.com" target="_blank" rel="noreferrer noopener">https://hangocmy.000webhostapp.com</a>
 2. Coffee Space: <a href="https://coffeespace.000webhostapp.com" target="_blank">https://coffeespace.000webhostapp.com</a>
 3. Android Store App: <a href="https://tandmstoreapp.000webhostapp.com" target="_blank">https://tandmstoreapp.000webhostapp.com</a>
