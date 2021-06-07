@@ -26,8 +26,8 @@
 3. [Web] Store App: <a href="https://tandmstoreapp.000webhostapp.com" target="_blank">https://tandmstoreapp.000webhostapp.com</a>
 4. [Web] TMOT Project (my partner[back-end] and me[font-end]): <a href="https://thousandideastmot.web.app/index.html" target="_blank">https://thousandideastmot.web.app/index.html</a>
 5. [Web Video] Football Manager: <a href="https://www.youtube.com/watch?v=2A8IB0sVw6A" target="_blank">https://www.youtube.com/watch?v=2A8IB0sVw6A</a>
-8. [UIUX Video] Restaurant: <a href="https://www.youtube.com/watch?v=AI9jEmEyM4E&t=1s" target="_blank">https://www.youtube.com/watch?v=AI9jEmEyM4E&t=1s</a>
-7. [UIUX Video] Football Club: <a href="https://www.youtube.com/watch?v=Gzv5HjEqLVw" target="_blank">https://www.youtube.com/watch?v=Gzv5HjEqLVw</a>
+6. [UIUX Video] Football Club: <a href="https://www.youtube.com/watch?v=Gzv5HjEqLVw" target="_blank">https://www.youtube.com/watch?v=Gzv5HjEqLVw</a>
+7. [UIUX Video] Restaurant: <a href="https://www.youtube.com/watch?v=AI9jEmEyM4E&t=1s" target="_blank">https://www.youtube.com/watch?v=AI9jEmEyM4E&t=1s</a>
 8. [UIUX Wireframe] Restaurant: <a href="https://www.figma.com/file/9fdERNg3Md9tvAexCSlCCZ/Wireframe_MATRestaurant?node-id=0%3A1" target="_blank">https://www.figma.com/file/9fdERNg3Md9tvAexCSlCCZ/Wireframe_MATRestaurant?node-id=0%3A1</a>
 9. [UIUX Prototype] Restaurant: <a href="https://www.figma.com/proto/mneFSRwXLlTUe8MkXpjENL/M.A.T-Restaurant?page-id=0%3A1&node-id=1%3A1099&viewport=540%2C396%2C0.020084990188479424&scaling=min-zoom" target="_blank">https://bit.ly/3w2NXFQ</a>
 10. [UIUX Prototype] Online Class: <a href="https://www.figma.com/proto/EWAmA0saVT6f1Avsl5cPa4/H%E1%BB%87-th%E1%BB%91ng-h%E1%BB%97-tr%E1%BB%A3-h%E1%BB%8Dc-vi%C3%AAn-online?page-id=0%3A1&node-id=11%3A1730&viewport=326%2C167%2C0.08043020963668823&scaling=min-zoom" target="_blank">https://bit.ly/3pw1Jyh</a>
