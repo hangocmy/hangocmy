@@ -21,6 +21,7 @@
 
 
 ### Some of my project
+
 (open new blank page: ctrl + click for windows or command + click for mac)
 
 |   No. |        Type       |   Project Name     |   Open Project  |
@@ -72,20 +73,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <br/>
-
----
-
-<br/>
-  <h2 align="center">Github Statistics</h2>
-  
-  <div align="center"> 
-    <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40"/>
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-    </a>
-  </div>
 
 ---
 
