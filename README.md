@@ -29,7 +29,7 @@
 |   2   | `web application` |   Coffee Space     |  <a href="https://coffeespace.000webhostapp.com" target="_blank">go</a>|
 |   3   | `web application` |   Store App        |  <a href="https://tandmstoreapp.000webhostapp.com" target="_blank">go</a> |
 |   4   | `web application` |   Unbind The Brains<br>(my partner[back-end] and me[font-end]) |  <a href="https://thousandideastmot.web.app/index.html" target="_blank">go</a>|
-|   5   |    `web video`    |   Football Manager | <a href="https://www.youtube.com/watch?v=2A8IB0sVw6A" target="_blank">go</a> |
+|   5   |    `web demo`    |   Football Manager | <a href="https://www.youtube.com/watch?v=2A8IB0sVw6A" target="_blank">go</a> |
 |   6   |    `uiux video`   |   Football Club    | <a href="https://www.youtube.com/watch?v=Gzv5HjEqLVw" target="_blank">go</a>|
 |   7   |    `uiux video`   |   Restaurant       | <a href="https://www.youtube.com/watch?v=AI9jEmEyM4E&t=1s" target="_blank">go</a>|
 |   8   |  `uiux wireframe` |   Restaurant       | <a href="https://www.figma.com/file/9fdERNg3Md9tvAexCSlCCZ/Wireframe_MATRestaurant?node-id=0%3A1" target="_blank">go</a>|
