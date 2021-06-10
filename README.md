@@ -29,7 +29,7 @@
 |   1   | `web application` |   <b>Portfolio</b>        | <a href="https://hangocmy.000webhostapp.com" target="_blank">click here</a> |
 |   2   | `web application` |   <b>Coffee Space</b>     |  <a href="https://coffeespace.000webhostapp.com" target="_blank">click here</a>|
 |   3   | `web application` |   <b>Store App</b>        |  <a href="https://tandmstoreapp.000webhostapp.com" target="_blank">click here</a> |
-|   4   | `web application` |   <b>Unbind The Brains</b><br>(my partner[back-end] and me[font-end]) |  <a href="https://thousandideastmot.web.app/index.html" target="_blank">click here</a>|
+|   4   | `web application` |   <b>Unbind The Brains</b><br>(my partner[back-end] and me[front-end]) |  <a href="https://thousandideastmot.web.app/index.html" target="_blank">click here</a>|
 |   5   |    `web demo`    |    <b>Football Manager</b> | <a href="https://www.youtube.com/watch?v=2A8IB0sVw6A" target="_blank">click here</a> |
 |   6   |    `uiux video`   |   <b>Football Club</b>    | <a href="https://www.youtube.com/watch?v=Gzv5HjEqLVw" target="_blank">click here</a>|
 |   7   |    `uiux video`   |   <b>Restaurant</b>       | <a href="https://www.youtube.com/watch?v=AI9jEmEyM4E&t=1s" target="_blank">click here</a>|
