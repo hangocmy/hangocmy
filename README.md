@@ -34,8 +34,8 @@
 |   6   |    `uiux video`   |   <b>Football Club</b>    | <a href="https://www.youtube.com/watch?v=Gzv5HjEqLVw" target="_blank">click here</a>|
 |   7   |    `uiux video`   |   <b>Restaurant</b>       | <a href="https://www.youtube.com/watch?v=AI9jEmEyM4E&t=1s" target="_blank">click here</a>|
 |   8   |  `uiux wireframe` |   <b>Restaurant</b>       | <a href="https://www.figma.com/file/9fdERNg3Md9tvAexCSlCCZ/Wireframe_MATRestaurant?node-id=0%3A1" target="_blank">click here</a>|
-|   9   |  `uiux prototype` |   Restaurant       | <a href="https://www.figma.com/proto/mneFSRwXLlTUe8MkXpjENL/M.A.T-Restaurant?page-id=0%3A1&node-id=1%3A1099&viewport=540%2C396%2C0.020084990188479424&scaling=min-zoom" target="_blank">click here</a>|
-|   10  |  `uiux prototype` |   Online Class     |<a href="https://www.figma.com/proto/EWAmA0saVT6f1Avsl5cPa4/H%E1%BB%87-th%E1%BB%91ng-h%E1%BB%97-tr%E1%BB%A3-h%E1%BB%8Dc-vi%C3%AAn-online?page-id=0%3A1&node-id=11%3A1730&viewport=326%2C167%2C0.08043020963668823&scaling=min-zoom" target="_blank">click here</a>|
+|   9   |  `uiux prototype` |   <b>Restaurant</b>        | <a href="https://www.figma.com/proto/mneFSRwXLlTUe8MkXpjENL/M.A.T-Restaurant?page-id=0%3A1&node-id=1%3A1099&viewport=540%2C396%2C0.020084990188479424&scaling=min-zoom" target="_blank">click here</a>|
+|   10  |  `uiux prototype` |   <b>Online Class</b>      |<a href="https://www.figma.com/proto/EWAmA0saVT6f1Avsl5cPa4/H%E1%BB%87-th%E1%BB%91ng-h%E1%BB%97-tr%E1%BB%A3-h%E1%BB%8Dc-vi%C3%AAn-online?page-id=0%3A1&node-id=11%3A1730&viewport=326%2C167%2C0.08043020963668823&scaling=min-zoom" target="_blank">click here</a>|
 
 ---
 
