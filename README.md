@@ -46,6 +46,7 @@
 [<img align="left" alt="hangocmy | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][Linkedin]
 [<img align="left" alt="hangocmy | Facebook" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725289.svg"/>][Facebook]
 [<img align="left" alt="hangocmy | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg"/>][Instagram]
+[<img align="left" alt="hangocmy | Pinterest" height="30px" src="https://image.flaticon.com/icons/svg/725/725296.svg"/>][Pinterest]
 
 
 
@@ -83,6 +84,7 @@ Last Edited on: 25/02/2021
 [Facebook]: https://www.facebook.com/ctrls.hangocmy/
 [Instagram]: https://www.instagram.com/ctrlshnm/
 [Linkedin]: https://www.linkedin.com/in/hangocmy/
+[Pinterest]: https://www.pinterest.com/ymcognah/
 [Spotify]: https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa
 
 [Spotify2]: https://open.spotify.com/user/11153360645
