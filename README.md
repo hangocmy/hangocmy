@@ -9,6 +9,24 @@
 
 ---
 
+
+
+
+### Contact me 
+
+
+[<img align="left" alt="hangocmy.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg"/>][Website]
+[<img align="left" alt="hangocmy | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][Linkedin]
+[<img align="left" alt="hangocmy | Facebook" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725289.svg"/>][Facebook]
+[<img align="left" alt="hangocmy | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg"/>][Instagram]
+[<img align="left" alt="hangocmy | Pinterest" height="30px" src="https://image.flaticon.com/icons/svg/725/725296.svg"/>][Pinterest]
+
+
+
+<br/>
+
+---
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 ### Spotify Playing 🎧
@@ -36,21 +54,6 @@
 |  `uiux prototype` |   <b>Restaurant</b>        | <a href="https://www.figma.com/proto/mneFSRwXLlTUe8MkXpjENL/M.A.T-Restaurant?page-id=0%3A1&node-id=1%3A1099&viewport=540%2C396%2C0.020084990188479424&scaling=min-zoom" target="_blank">click here</a>|
 |  `uiux prototype` |   <b>Online Class</b>      |<a href="https://www.figma.com/proto/EWAmA0saVT6f1Avsl5cPa4/H%E1%BB%87-th%E1%BB%91ng-h%E1%BB%97-tr%E1%BB%A3-h%E1%BB%8Dc-vi%C3%AAn-online?page-id=0%3A1&node-id=11%3A1730&viewport=326%2C167%2C0.08043020963668823&scaling=min-zoom" target="_blank">click here</a>|
 
----
-
-
-### Contact me 
-
-
-[<img align="left" alt="hangocmy.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg"/>][Website]
-[<img align="left" alt="hangocmy | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][Linkedin]
-[<img align="left" alt="hangocmy | Facebook" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725289.svg"/>][Facebook]
-[<img align="left" alt="hangocmy | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg"/>][Instagram]
-[<img align="left" alt="hangocmy | Pinterest" height="30px" src="https://image.flaticon.com/icons/svg/725/725296.svg"/>][Pinterest]
-
-
-
-<br/>
 
 ---
 
