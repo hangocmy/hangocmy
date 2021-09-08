@@ -16,7 +16,7 @@
 [<img align="left" alt="hangocmy | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][Linkedin]
 [<img align="left" alt="hangocmy | Facebook" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725289.svg"/>][Facebook]
 [<img align="left" alt="hangocmy | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg"/>][Instagram]
-[<img align="left" alt="hangocmy | Pinterest" height="30px" src="https://image.flaticon.com/icons/svg/725/725296.svg"/>][Pinterest]
+<!--[<img align="left" alt="hangocmy | Pinterest" height="30px" src="https://image.flaticon.com/icons/svg/725/725296.svg"/>][Pinterest]-->
 
 
 <br/>
@@ -76,7 +76,7 @@
 
 ---
 
-### Copyright © [Ha Ngoc My](https://github.com/hangocmy) ### 
+### Copyright © [hangocmy](https://github.com/hangocmy) ### 
 Last Edited on: 25/02/2021
 
 
