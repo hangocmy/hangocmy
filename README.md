@@ -82,7 +82,7 @@ Last Edited on: 25/02/2021
 
 [Website]: https://hangocmy.000webhostapp.com/
 [Facebook]: https://www.facebook.com/ctrls.hangocmy/
-[Instagram]: https://www.instagram.com/ctrlshnm/
+[Instagram]: https://www.instagram.com/ymcognah/
 [Linkedin]: https://www.linkedin.com/in/hangocmy/
 [Pinterest]: https://www.pinterest.com/ymcognah/
 [Spotify]: https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa
