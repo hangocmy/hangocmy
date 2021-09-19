@@ -12,10 +12,10 @@
 ### Contact me 
 
 
-[<img align="left" alt="hangocmy.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg"/>][Website]
-[<img align="left" alt="hangocmy | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"/>][Linkedin]
-[<img align="left" alt="hangocmy | Facebook" height="30px" src="https://cdn-icons-png.flaticon.com/512/4406/4406235.png"/>][Facebook]
-[<img align="left" alt="hangocmy | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg"/>][Instagram]
+[<img align="left" alt="hangocmy.site" height="30px" src="https://cdn-icons-png.flaticon.com/512/3234/3234470.png"/>][Website]
+[<img align="left" alt="hangocmy.linkedin | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"/>][Linkedin]
+[<img align="left" alt="hangocmy.facebook | Facebook" height="30px" src="https://cdn-icons-png.flaticon.com/512/4406/4406235.png"/>][Facebook]
+[<img align="left" alt="hangocmy.instagram | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg"/>][Instagram]
 <!--[<img align="left" alt="hangocmy | Pinterest" height="30px" src="https://image.flaticon.com/icons/svg/725/725296.svg"/>][Pinterest]-->
 
 
