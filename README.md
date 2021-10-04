@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 ## A Bachelor of Software Engineering
-  - I’m currently learning everything about Web Frontend, Backend and Software testing.
+  - I’m currently learning everything about Web Front-End, Back-End and Software Testing.
   - Future Goals: Learn more technologies - Never stop creating new ideas.
   - Fun fact: I love to play badminton and swimming.
 
@@ -28,7 +28,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa?si=ff98b31c90f5491f  )
 
 ---
 
@@ -44,7 +44,8 @@
 | `web application` |   <b>Coffee Space</b>     |  <a href="https://coffeespace.000webhostapp.com" target="_blank">click here</a>|
 | `web application` |   <b>Store App</b>        |  <a href="https://tandmstoreapp.000webhostapp.com" target="_blank">click here</a> |
 | `web application` |   <b>Unbind The Brains</b><br>(my partner[back-end] and me[front-end]) |  <a href="https://thousandideastmot.web.app/index.html" target="_blank">click here</a>|
-|    `web demo`    |    <b>Football Manager</b> | <a href="https://www.youtube.com/watch?v=2A8IB0sVw6A" target="_blank">click here</a> |
+| `web application` |   <b>TMOT Web</b><br>(my partner[back-end] and me[front-end]) |  <a href="https://tuyenthanhvientmot.web.app/" target="_blank">click here</a>|
+|    `web demo`     |    <b>Football Manager</b> | <a href="https://www.youtube.com/watch?v=2A8IB0sVw6A" target="_blank">click here</a> |
 |    `uiux video`   |   <b>Football Club</b>    | <a href="https://www.youtube.com/watch?v=Gzv5HjEqLVw" target="_blank">click here</a>|
 |    `uiux video`   |   <b>Restaurant</b>       | <a href="https://www.youtube.com/watch?v=AI9jEmEyM4E&t=1s" target="_blank">click here</a>|
 |  `uiux wireframe` |   <b>Restaurant</b>       | <a href="https://www.figma.com/file/9fdERNg3Md9tvAexCSlCCZ/Wireframe_MATRestaurant?node-id=0%3A1" target="_blank">click here</a>|
@@ -85,8 +86,7 @@ Last Edited on: 25/02/2021
 [Instagram]: https://www.instagram.com/ymcognah/
 [Linkedin]: https://www.linkedin.com/in/hangocmy/
 [Pinterest]: https://www.pinterest.com/ymcognah/
-[Spotify]: https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa
+[Spotify]: https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa?si=ff98b31c90f5491f  
 
-[Spotify2]: https://open.spotify.com/user/11153360645
 
 
