@@ -44,7 +44,6 @@
 | `web application` |   <b>Coffee Space</b>     |  <a href="https://coffeespace.000webhostapp.com" target="_blank">click here</a>|
 | `web application` |   <b>Store App</b>        |  <a href="https://tandmstoreapp.000webhostapp.com" target="_blank">click here</a> |
 | `web application` |   <b>Unbind The Brains</b><br>(my partner[back-end] and me[front-end]) |  <a href="https://thousandideastmot.web.app/index.html" target="_blank">click here</a>|
-| `web application` |   <b>TMOT Web</b><br>(my partner[back-end] and me[front-end]) |  <a href="https://tuyenthanhvientmot.web.app/" target="_blank">click here</a>|
 |    `web demo`     |    <b>Football Manager</b> | <a href="https://www.youtube.com/watch?v=2A8IB0sVw6A" target="_blank">click here</a> |
 |    `uiux video`   |   <b>Football Club</b>    | <a href="https://www.youtube.com/watch?v=Gzv5HjEqLVw" target="_blank">click here</a>|
 |    `uiux video`   |   <b>Restaurant</b>       | <a href="https://www.youtube.com/watch?v=AI9jEmEyM4E&t=1s" target="_blank">click here</a>|
