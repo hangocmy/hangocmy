@@ -41,6 +41,7 @@
 |        TYPE       |         PROJECT NAME      |   OPEN PROJECT  |
 |        :---:      |            :---:          |      :---:      |
 | `web application` |   <b>Portfolio</b>        | <a href="https://hangocmy.000webhostapp.com" target="_blank">click here</a> |
+| `web application` |   <b>Create CV</b>        | <a href="https://hangocmy.github.io/cv-competition/" target="_blank">click here</a> |
 | `web application` |   <b>Coffee Space</b>     |  <a href="https://coffeespace.000webhostapp.com" target="_blank">click here</a>|
 | `web application` |   <b>Store App</b>        |  <a href="https://tandmstoreapp.000webhostapp.com" target="_blank">click here</a> |
 | `web application` |   <b>Unbind The Brains</b><br>(my partner[back-end] and me[front-end]) |  <a href="https://thousandideastmot.web.app/index.html" target="_blank">click here</a>|
