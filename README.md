@@ -4,7 +4,7 @@
 
 ## A Bachelor of Software Engineering
   - I’m currently learning everything about Web Front-End, Back-End and Software Testing.
-  - Future Goals: Learn more technologies - Never stop creating new ideas.
+  - Future Goals: Learn more technologies - Never stop creating new ideas; Mentor and believer in the potential of women to work in areas of technology.
   - Fun fact: I love to play badminton and swimming.
 
 ---
