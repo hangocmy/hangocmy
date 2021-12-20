@@ -40,7 +40,7 @@
 (open new blank page: ctrl + click for windows or command + click for mac)
 |        TYPE       |         PROJECT NAME      |   OPEN PROJECT  |
 |        :---:      |            :---:          |      :---:      |
-| `web application` |   <b>Portfolio</b>        | <a href="https://hangocmy.000webhostapp.com" target="_blank">click here</a> |
+| `web application` |   <b>Portfolio</b>        | <a href="https://hangocmy-portfolio.herokuapp.com/" target="_blank">click here</a> |
 | `web application` |   <b>Create CV</b>        | <a href="https://hangocmy.github.io/cv-competition/" target="_blank">click here</a> |
 | `web application` |   <b>Store App</b>        | <a href="https://tandmstoreapp.000webhostapp.com" target="_blank">click here</a> |
 | `web application` |   <b>Recruitment</b>      | <a href="https://tmot-recruitment.000webhostapp.com/" target="_blank">click here</a> |
