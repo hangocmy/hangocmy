@@ -75,7 +75,7 @@
 ### Copyright © [hangocmy](https://github.com/hangocmy) ### 
 
 
-[Website]: https://hangocmy-portfolio.herokuapp.com/
+[Website]: https://hangocmy.herokuapp.com/
 [Facebook]: https://www.facebook.com/ctrls.hangocmy/
 [Instagram]: https://www.instagram.com/ymcognah/
 [Linkedin]: https://www.linkedin.com/in/hangocmy/
