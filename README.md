@@ -80,7 +80,7 @@
 [Instagram]: https://www.instagram.com/ymcognah/
 [Linkedin]: https://www.linkedin.com/in/hangocmy/
 [Pinterest]: https://www.pinterest.com/ymcognah/
-[Spotify]: https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa?si=ff98b31c90f5491f  
+[Spotify]: https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa?si=e075213325c34b80  
 
 
 
