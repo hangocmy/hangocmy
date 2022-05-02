@@ -55,7 +55,7 @@
 
 ### Languages and Tools 
 ![Cypress](https://img.shields.io/badge/-Cypress-5C5C5E?style=flat-square&logo=cypress)
-![JMeter](https://img.shields.io/badge/-JMeter-EF1A36?style=flat-square&logo=apache)
+![JMeter](https://img.shields.io/badge/-JMeter-E05B2B?style=flat-square&logo=apache)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![PHP](https://img.shields.io/badge/-PHP-181717?style=flat-square&logo=php&color=59668E)
