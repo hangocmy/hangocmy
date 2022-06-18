@@ -44,7 +44,7 @@
 | `web application` |  <b>Store App</b>    |    April 2021   | <a href="https://tandmstoreapp.000webhostapp.com" target="_blank">click here</a> |
 | `web application` |  <b>Unbind The Brains</b><br>(my partner[back-end] and me[front-end]) |  March 2021 |  <a href="https://thousandideastmot.web.app/index.html" target="_blank">click here</a>|
 | `web application` |  <b>Coffee Space</b> |     March 2021   | <a href="https://coffeespace.000webhostapp.com" target="_blank">click here</a> |
-| `web application` |  <b>Portfolio</b>    |  February 2021  | <a href="https://hangocmy-portfolio.herokuapp.com/" target="_blank">click here</a> |
+| `web application` |  <b>Portfolio</b>    |  February 2021  | <a href="https://hangocmy.herokuapp.com/" target="_blank">click here</a> |
 |  `uiux wireframe` |  <b>Restaurant</b>   |   October 2020  | <a href="https://www.figma.com/file/9fdERNg3Md9tvAexCSlCCZ/Wireframe_MATRestaurant?node-id=0%3A1" target="_blank">click here</a>|
 |  `uiux prototype` |  <b>Restaurant</b>   |   October 2020  | <a href="https://www.figma.com/proto/mneFSRwXLlTUe8MkXpjENL/M.A.T-Restaurant?page-id=0%3A1&node-id=1%3A1099&viewport=540%2C396%2C0.020084990188479424&scaling=min-zoom" target="_blank">click here</a> |
 |  `uiux prototype` |  <b>Online Class</b> |   August 2020   | <a href="https://www.figma.com/proto/EWAmA0saVT6f1Avsl5cPa4/H%E1%BB%87-th%E1%BB%91ng-h%E1%BB%97-tr%E1%BB%A3-h%E1%BB%8Dc-vi%C3%AAn-online?page-id=0%3A1&node-id=11%3A1730&viewport=326%2C167%2C0.08043020963668823&scaling=min-zoom" target="_blank">click here</a> |
