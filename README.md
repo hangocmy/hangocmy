@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 ## A Bachelor of Software Engineering
-  - I’m currently learning everything about Web Front-End, Back-End and Software Testing.
+  - I'm a Bachelor of Software Engineering. I’m currently learning everything about Web Design, Web Frontend, Software Testing: Manual Testing, Automation Testing, etc. My goal is to build a successful career as a Automation Tester.
   - Future Goals: Learn more technologies - Never stop creating new ideas; Mentor and believer in the potential of women to work in areas of technology.
   - Fun fact: I love to play badminton and swimming.
 
