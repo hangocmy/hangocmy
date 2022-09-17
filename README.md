@@ -57,6 +57,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-5C5C5E?style=flat-square&logo=cypress)
 ![Selenium IDE](https://img.shields.io/badge/-Selenium%20IDE-D3F3EE?style=flat-square&logo=selenium)
 ![JMeter](https://img.shields.io/badge/-JMeter-E05B2B?style=flat-square&logo=apache)
+![CI/CD](https://img.shields.io/badge/-CI/CD-3075E6?style=flat-square)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
