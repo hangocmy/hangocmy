@@ -38,7 +38,7 @@
 (open new blank page: ctrl + click for windows or command + click for mac)
 |        TYPE       |      PROJECT NAME    |       TIME      |    OPEN PROJECT  |
 |        :---:      |         :---:        |      :---:      |      :---:       |
-|      `CI/CD`     |  <b>Testing > Build > Deploy</b>    |  September 2022  | <a href="https://github.com/hangocmy/panda-voucher/actions/runs/3066473315" target="_blank">click here</a> |
+| `automation testing` `CI/CD` |  <b>Testing > Build > Deploy</b>    |  September 2022  | <a href="https://github.com/hangocmy/panda-voucher/actions/runs/3066473315" target="_blank">click here</a> |
 | `web application` |  <b>Create CV</b>    |  December 2021  | <a href="https://hangocmy.github.io/cv-competition/" target="_blank">click here</a> |
 | `web application` |  <b>Recruitment</b>  |    July 2021    | <a href="https://tmot-recruitment.000webhostapp.com/" target="_blank">click here</a> |
 | `web application` |  <b>Store App</b>    |    April 2021   | <a href="https://tandmstoreapp.000webhostapp.com" target="_blank">click here</a> |
