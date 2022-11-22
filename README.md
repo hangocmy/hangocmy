@@ -73,7 +73,7 @@
 ### Copyright © [hangocmy](https://github.com/hangocmy) ### 
 
 
-[Website]: https://hangocmy.herokuapp.com/
+[Website]: https://hangocmy.up.railway.app/
 [Facebook]: https://www.facebook.com/ymcognah/
 [Instagram]: https://www.instagram.com/ymcognah/
 [Linkedin]: https://www.linkedin.com/in/hangocmy/
