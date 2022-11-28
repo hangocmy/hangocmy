@@ -43,7 +43,7 @@
 | `web application` |  <b>Recruitment</b>  |    July 2021    | <a href="https://tmot-recruitment.000webhostapp.com/" target="_blank">click here</a> |
 | `web application` |  <b>Store App</b>    |    April 2021   | <a href="https://webstore.up.railway.app/" target="_blank">click here</a> |
 | `web application` |  <b>Unbind The Brains</b><br>(my partner[back-end] and me[front-end]) |  March 2021 |  <a href="https://thousandideastmot.web.app/index.html" target="_blank">click here</a>|
-| `web application` |  <b>Coffee Space</b> |     March 2021   | <a href="https://hangocmy.github.io/coffee-space/" target="_blank">click here</a> |
+| `web application` |  <b>Coffee Space</b> |     March 2021   | <a href="https://coffee-space.netlify.app/" target="_blank">click here</a> |
 | `web application` |  <b>Portfolio</b>    |  February 2021  | <a href="https://hangocmy.up.railway.app/" target="_blank">click here</a> |
 |  `uiux wireframe` |  <b>Restaurant</b>   |   October 2020  | <a href="https://www.figma.com/file/9fdERNg3Md9tvAexCSlCCZ/Wireframe_MATRestaurant?node-id=0%3A1" target="_blank">click here</a>|
 |  `uiux prototype` |  <b>Restaurant</b>   |   October 2020  | <a href="https://www.figma.com/proto/mneFSRwXLlTUe8MkXpjENL/M.A.T-Restaurant?page-id=0%3A1&node-id=1%3A1099&viewport=540%2C396%2C0.020084990188479424&scaling=min-zoom" target="_blank">click here</a> |
