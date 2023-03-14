@@ -2,17 +2,18 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
-## A Bachelor of Software Engineering
-  - I'm a Bachelor of Software Engineering. I’m currently learning everything about Web Design, Web Frontend; Software Testing: Manual, Automation, Performance Testing; CI/CD etc. My goal is to build a successful career as a Automation Tester.
-  - Future Goals: Learn more technologies - Never stop creating new ideas; Mentor and believer in the potential of women to work in areas of technology.
-  - Fun fact: I love to play badminton and swimming.
+My undergraduate degree is in software engineering. I'm actively studying everything there is to know about web frontend, CI/CD, and software testing in general (manual, automated, performance testing).
+My objective is to become a successful software automation engineer.
+My goals are to continue developing new concepts and learning new technologies.
+
+Mentor and believer in the potential of women to work in areas of technology.
 
 ---
 
 ### Contact me 
 
 
-[<img align="left" alt="hangocmy.site" height="30px" src="https://cdn-icons-png.flaticon.com/512/3234/3234470.png"/>][Website]
+<!--[<img align="left" alt="hangocmy.site" height="30px" src="https://cdn-icons-png.flaticon.com/512/3234/3234470.png"/>][Website]-->
 [<img align="left" alt="hangocmy.linkedin | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"/>][Linkedin]
 [<img align="left" alt="hangocmy.instagram | Instagram" height="30px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg"/>][Instagram]
 <!--[<img align="left" alt="hangocmy | Pinterest" height="30px" src="https://image.flaticon.com/icons/svg/725/725296.svg"/>][Pinterest]-->
