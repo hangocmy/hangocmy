@@ -41,8 +41,8 @@ Mentor and believer in the potential of women to work in areas of technology.
 |        :---:      |         :---:        |      :---:      |      :---:       |
 | `automation testing` `CI/CD` |  <b>Test > Build > Deploy NodeJS to Heroku</b>    |  September 2022  | <a href="https://github.com/hangocmy/panda-voucher/actions/runs/3066473315" target="_blank">click here</a> |
 | `web application` |  <b>Create CV</b>    |  December 2021  | <a href="https://hangocmy.github.io/cv-competition/" target="_blank">click here</a> |
-| `web application` |  <b>Recruitment</b>  |    July 2021    |  |
-| `web application` |  <b>Store App</b>    |    April 2021   |  |
+| `web application` |  <b>Recruitment</b>  |    July 2021    | --- |
+| `web application` |  <b>Store App</b>    |    April 2021   | --- |
 | `web application` |  <b>Unbind The Brains</b><br>(my partner[back-end] and me[front-end]) |  March 2021 |  <a href="https://thousandideastmot.web.app/index.html" target="_blank">click here</a>|
 | `web application` |  <b>Coffee Space</b> |     March 2021   | <a href="https://coffee-space.netlify.app/" target="_blank">click here</a> |
 | `web application` |  <b>Portfolio</b>    |  February 2021  | <a href="https://coffee-space.netlify.app/" target="_blank">click here</a> |
