@@ -39,6 +39,7 @@ Mentor and believer in the potential of women to work in areas of technology.
 (open new blank page: ctrl + click for windows or command + click for mac)
 |        TYPE       |      PROJECT NAME    |       TIME      |    OPEN PROJECT  |
 |        :---:      |         :---:        |      :---:      |      :---:       |
+|  `api testing`    |  <b>API Testing with Postman<b/>      |   2023|  <a href="https://www.postman.com/hangocmy" target="_blank">click here</a>  |
 | `automation testing` `CI/CD` |  <b>Test > Build > Deploy NodeJS to Heroku</b>    |  September 2022  | <a href="https://github.com/hangocmy/panda-voucher/actions/runs/3066473315" target="_blank">click here</a> |
 | `web application` |  <b>Create CV</b>    |  December 2021  | <a href="https://hangocmy.github.io/cv-competition/" target="_blank">click here</a> |
 | `web application` |  <b>Recruitment</b>  |    July 2021    | --- |
