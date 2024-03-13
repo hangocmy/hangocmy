@@ -1,12 +1,11 @@
 # Hi there, I'm [Ha Ngoc My][Website]
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
-
-My undergraduate degree is in software engineering. I'm actively studying everything there is to know about web frontend, CI/CD, and software testing in general (manual, automated, performance testing).
-My objective is to become a successful software automation engineer.
+
+My undergraduate degree is in software engineering. I'm actively working and learning everything there is to know about presale and software testing in general (manual, automated, performance, API testing,...).
 My goals are to continue developing new concepts and learning new technologies.
 
-Mentor and believer in the potential of women to work in areas of technology.
+Empowering and believing in the potential of women in technology.
 
 ---
 
