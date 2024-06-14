@@ -39,7 +39,7 @@ Empowering and believing in the potential of women in technology.
 (open new blank page: ctrl + click for windows or command + click for mac)
 |        TYPE       |      PROJECT NAME    |       TIME      |    OPEN PROJECT  |
 |        :---:      |         :---:        |      :---:      |      :---:       |
-| `Performance testing` |  <b>k6</b> |  2023   | <a href="https://github.com/hangocmy/k6-project" target="_blank">click here</a> |
+| `Performance testing` |  <b>k6</b> |  2024   | <a href="https://github.com/hangocmy/k6-project" target="_blank">click here</a> |
 | `UI testing` |  <b>Playwright</b> |  2023   | <a href="https://github.com/hangocmy/playwright-project" target="_blank">click here</a> |
 |  `api testing`    |  <b>API Testing with Postman<b/>      |   2023|  <a href="https://www.postman.com/hangocmy" target="_blank">click here</a>  |
 | `UI testing` |  <b>Cypress</b>    |  2022  | <a href="https://github.com/hangocmy/cypress-project" target="_blank">click here</a> |
