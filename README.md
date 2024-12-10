@@ -3,10 +3,10 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 
-My undergraduate degree is in software engineering. I'm actively working and learning everything there is to know about presale and software testing in general (manual, automated, performance, API testing,...).
+My undergraduate degree is in software engineering. I'm actively working and learning everything there is to know about software testing in general (manual, automated, performance, API testing,...).
 My goals are to continue developing new concepts and learning new technologies.
 
-Empowering and believing in the potential of women in technology.
+_Empowering and believing in the potential of women in technology_
 
 ---
 
@@ -33,31 +33,6 @@ Empowering and believing in the potential of women in technology.
 ---
 
 
-
-### Some of my project
-
-(open new blank page: ctrl + click for windows or command + click for mac)
-|        TYPE       |      PROJECT NAME    |       TIME      |    OPEN PROJECT  |
-|        :---:      |         :---:        |      :---:      |      :---:       |
-| `Performance testing` |  <b>k6</b> |  2024   | <a href="https://github.com/hangocmy/k6-project" target="_blank">click here</a> |
-| `UI testing` |  <b>Playwright</b> |  2023   | <a href="https://github.com/hangocmy/playwright-project" target="_blank">click here</a> |
-|  `api testing`    |  <b>API Testing with Postman<b/>      |   2023|  <a href="https://www.postman.com/hangocmy" target="_blank">click here</a>  |
-| `UI testing` |  <b>Cypress</b>    |  2022  | <a href="https://github.com/hangocmy/cypress-project" target="_blank">click here</a> |
-| `automation testing` `CI/CD` |  <b>Test > Build > Deploy NodeJS to Heroku</b>    |  September 2022  | <a href="https://github.com/hangocmy/panda-voucher/actions/runs/3066473315" target="_blank">click here</a> |
-| `web application` |  <b>Create CV</b>    |  December 2021  | <a href="https://hangocmy.github.io/cv-competition/" target="_blank">click here</a> |
-| `web application` |  <b>Recruitment</b>  |    July 2021    | --- |
-| `web application` |  <b>Store App</b>    |    April 2021   | --- |
-| `web application` |  <b>Unbind The Brains</b><br>(my partner[back-end] and me[front-end]) |  March 2021 |  <a href="https://thousandideastmot.web.app/index.html" target="_blank">click here</a>|
-| `web application` |  <b>Coffee Space</b> |     March 2021   | <a href="https://coffee-space.netlify.app/" target="_blank">click here</a> |
-| `web application` |  <b>Portfolio</b>    |  February 2021  | <a href="https://hangocmy.github.io/portfolio/" target="_blank">click here</a> |
-|  `uiux wireframe` |  <b>Restaurant</b>   |   October 2020  | <a href="https://www.figma.com/file/9fdERNg3Md9tvAexCSlCCZ/Wireframe_MATRestaurant?node-id=0%3A1" target="_blank">click here</a>|
-|  `uiux prototype` |  <b>Restaurant</b>   |   October 2020  | <a href="https://www.figma.com/proto/mneFSRwXLlTUe8MkXpjENL/M.A.T-Restaurant?page-id=0%3A1&node-id=1%3A1099&viewport=540%2C396%2C0.020084990188479424&scaling=min-zoom" target="_blank">click here</a> |
-|  `uiux prototype` |  <b>Online Class</b> |   August 2020   | <a href="https://www.figma.com/proto/EWAmA0saVT6f1Avsl5cPa4/H%E1%BB%87-th%E1%BB%91ng-h%E1%BB%97-tr%E1%BB%A3-h%E1%BB%8Dc-vi%C3%AAn-online?page-id=0%3A1&node-id=11%3A1730&viewport=326%2C167%2C0.08043020963668823&scaling=min-zoom" target="_blank">click here</a> |
-
-
----
-
-
 ### Languages and Tools 
 ![Cypress](https://img.shields.io/badge/-Cypress-5C5C5E?style=flat-square&logo=cypress)
 ![Playwright](https://img.shields.io/badge/-Playwright-237804?style=flat-square&logo=Playwright)
@@ -79,10 +54,8 @@ Empowering and believing in the potential of women in technology.
 ### Copyright © [hangocmy](https://github.com/hangocmy) ### 
 
 
-[Website]: https://hangocmy.github.io/portfolio/
 [Instagram]: https://www.instagram.com/ymcognah/
 [Linkedin]: https://www.linkedin.com/in/hangocmy/
-[Spotify]: https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa?si=e075213325c34b80  
 
 
 
