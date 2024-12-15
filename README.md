@@ -8,14 +8,9 @@ My goals are to continue developing new concepts and learning new technologies.
 
 _Empowering and believing in the potential of women in technology_
 
-
-<br>
-
 <img align="left" alt="GIF" height="120px" width="120px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa?si=7Mhtow90QcK_aggPmJ4TnA)
-
-<br>
 
 ---
 
