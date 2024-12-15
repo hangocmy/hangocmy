@@ -12,7 +12,7 @@ _Empowering and believing in the potential of women in technology_
 
 ### Contact me 
 
-<!--[<img align="left" alt="hangocmy.site" height="30px" src="https://cdn-icons-png.flaticon.com/512/3234/3234470.png"/>][Website]-->
+[<img align="left" alt="hangocmy.site" height="30px" src="https://cdn-icons-png.flaticon.com/512/3234/3234470.png"/>][Website]
 [<img align="left" alt="hangocmy.linkedin | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"/>][Linkedin]
 [<img align="left" alt="hangocmy.instagram | Instagram" height="30px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg"/>][Instagram]
 <!--[<img align="left" alt="hangocmy | Pinterest" height="30px" src="https://image.flaticon.com/icons/svg/725/725296.svg"/>][Pinterest]-->
@@ -51,6 +51,7 @@ _Empowering and believing in the potential of women in technology_
 
 [Instagram]: https://www.instagram.com/ymcognah/
 [Linkedin]: https://www.linkedin.com/in/hangocmy/
+[Website]: https://hangocmy.github.io/portfolio/
 
 
 
