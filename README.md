@@ -1,6 +1,6 @@
-# Hi there, I'm [Ha Ngoc My][Website]
+# Hi there, I'm Ha Ngoc My
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
+<img align="right" alt="GIF" height="120px" width="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 
 My undergraduate degree is in software engineering. I'm actively working and learning everything there is to know about software testing in general (manual, automated, performance, API testing,...).
@@ -24,7 +24,7 @@ _Empowering and believing in the potential of women in technology_
 ---
 
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
 ### Spotify Playing 🎧
 
