@@ -24,13 +24,8 @@ _Empowering and believing in the potential of women in technology_
 
 <img align="center" alt="GIF" height="170px" width="180px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
-<br>
-
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa?si=7Mhtow90QcK_aggPmJ4TnA)
 
-<br>
-
----
 
 ### Languages and Tools 
 ![Cypress](https://img.shields.io/badge/-Cypress-5C5C5E?style=flat-square&logo=cypress)
