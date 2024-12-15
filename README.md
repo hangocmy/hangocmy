@@ -12,6 +12,8 @@ _Empowering and believing in the potential of women in technology_
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa?si=7Mhtow90QcK_aggPmJ4TnA)
 
+<br>
+
 ---
 
 ### Contact me 
