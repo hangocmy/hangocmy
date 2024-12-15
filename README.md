@@ -1,4 +1,4 @@
-# Hi there, I'm Ha Ngoc My
+# Hi guys, I'm Ha Ngoc My
 
 <img align="right" alt="GIF" height="120px" width="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
@@ -12,26 +12,21 @@ _Empowering and believing in the potential of women in technology_
 
 ### Contact me 
 
-
 <!--[<img align="left" alt="hangocmy.site" height="30px" src="https://cdn-icons-png.flaticon.com/512/3234/3234470.png"/>][Website]-->
 [<img align="left" alt="hangocmy.linkedin | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"/>][Linkedin]
 [<img align="left" alt="hangocmy.instagram | Instagram" height="30px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg"/>][Instagram]
 <!--[<img align="left" alt="hangocmy | Pinterest" height="30px" src="https://image.flaticon.com/icons/svg/725/725296.svg"/>][Pinterest]-->
 
-
-<br/>
-
----
-
-
-<img align="right" alt="GIF" height="160px" width="140px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa?si=ff98b31c90f5491f  )
+<br>
+<br>
 
 ---
 
+<img align="center" alt="GIF" height="170px" width="180px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31e2anxviv3eisuag5iywzp3s4qa?si=7Mhtow90QcK_aggPmJ4TnA)
+
+---
 
 ### Languages and Tools 
 ![Cypress](https://img.shields.io/badge/-Cypress-5C5C5E?style=flat-square&logo=cypress)
