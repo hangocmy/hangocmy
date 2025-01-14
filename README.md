@@ -44,6 +44,7 @@ _Empowering and believing in the potential of women in technology_
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-%23F05032?style=flat-square&logo=postman&logoColor=%23ffffff)
+![k6](https://img.shields.io/badge/-k6-d6d4ff?style=flat-square&logo=k6)
 
 ---
 
